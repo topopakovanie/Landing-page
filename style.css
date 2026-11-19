@@ -1,0 +1,14 @@
+/* Resets */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+button {
+  border: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
