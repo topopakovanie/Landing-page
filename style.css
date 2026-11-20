@@ -38,18 +38,15 @@ ul {
   align-items: center;
   margin-bottom: 62px;
 }
-
 .logo {
   font-size: 24px;
   font-weight: bold;
 }
-
 .nav-links ul {
   font-size: 18px;
   display: flex;
   gap: 24px;
 }
-
 .nav-links a:hover {
   color: #206688;
 }
@@ -58,7 +55,6 @@ ul {
   display: flex;
   gap: 128px;
 }
-
 .hero-info {
   flex: 2;
 }
@@ -82,15 +78,36 @@ ul {
   text-align: center;
   padding: 48px;
 }
+
 .main-intro {
-  margin-bottom: 48px;
+  margin-bottom: 56px;
 }
 .main-title {
   margin-bottom: 8px;
 }
-.main-subtitle {
+.main-subtitle,
+.card-text {
   color: #6c7580;
 }
 .main-subtitle p {
   margin: 0;
+}
+.main-subtitle a {
+  color: #5aa;
+  font-weight: bold;
+}
+.main-subtitle a:hover {
+  color: #acc;
+}
+
+.topics {
+  display: flex;
+  gap: 32px;
+}
+.card {
+  flex: 1;
+}
+.card-text {
+  font-size: 12px;
+  text-align: justify;
 }
