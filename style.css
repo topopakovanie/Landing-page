@@ -80,7 +80,7 @@ ul {
 /* Main styles */
 .main {
   text-align: center;
-  padding: 48px;
+  padding: 100px 48px;
 }
 
 .main-intro {
@@ -117,4 +117,10 @@ ul {
 .card-text {
   font-size: 12px;
   text-align: justify;
+}
+
+/* Quote styles */
+.quote {
+  background-color: #e5e7eb;
+  padding: 128px 0;
 }
