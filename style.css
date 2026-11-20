@@ -65,7 +65,8 @@ ul {
 .hero-img {
   flex: 1;
 }
-.hero-info button {
+.hero-info a {
+  display: inline-block;
   font-size: 14px;
   font-weight: bold;
   padding: 8px 32px;
@@ -124,6 +125,9 @@ ul {
   background-color: #e5e7eb;
   padding: 100px 0;
 }
+figure {
+  margin: 0;
+}
 .quote-text {
   font-size: 24px;
   font-style: italic;
@@ -154,7 +158,7 @@ ul {
   padding: 48px 12px;
   border-radius: 6px;
 }
-.call h4 {
+.call h2 {
   margin: 0 0 8px;
   font-size: 18px;
 }
