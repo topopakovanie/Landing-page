@@ -107,6 +107,9 @@ ul {
 .card {
   flex: 1;
 }
+.card a {
+  display: block;
+}
 .card-text {
   font-size: 12px;
   text-align: justify;
