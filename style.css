@@ -140,3 +140,30 @@ ul {
   text-align: right;
   font-weight: bold;
 }
+
+/* CTA styles */
+.cta-section {
+  padding: 100px 0;
+}
+.cta {
+  color: #fff;
+  background-color: #3b82f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 48px 12px;
+  border-radius: 6px;
+}
+.call h4 {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+.call p {
+  margin: 0;
+  font-size: 14px;
+}
+.action {
+  padding: 8px 32px;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
