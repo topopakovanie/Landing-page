@@ -51,3 +51,26 @@ ul {
 .nav-links a:hover {
   color: #206688;
 }
+
+.hero-content {
+  display: flex;
+  gap: 128px;
+}
+
+.hero-info {
+  flex: 2;
+}
+.hero-img {
+  flex: 1;
+}
+.hero-info button {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 32px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #3b82f6;
+}
+.hero-img img {
+  max-width: 100%;
+}
