@@ -54,9 +54,13 @@ ul {
 .hero-content {
   display: flex;
   gap: 128px;
+  align-items: center;
 }
 .hero-info {
-  flex: 2;
+  flex: 1;
+}
+.hero-text {
+  text-align: justify;
 }
 .hero-img {
   flex: 1;
