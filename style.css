@@ -18,18 +18,18 @@ ul {
   padding: 0;
 }
 
-/* Styles */
-.hero-container {
-  background-color: #1f2937;
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  padding: 24px;
-  padding-bottom: 128px;
+/* Utility classes */
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
 }
 
+/* Hero styles */
 .hero {
-  width: 70%;
+  background-color: #1f2937;
+  color: #fff;
+  padding: 24px;
+  padding-bottom: 128px;
 }
 
 .header {
