@@ -167,3 +167,18 @@ ul {
   border: 2px solid #fff;
   border-radius: 8px;
 }
+
+/* Footer styles */
+footer {
+  background-color: #1f2937;
+  color: #fff;
+  padding: 50px 0;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+footer p {
+  margin: 0;
+}
