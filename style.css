@@ -76,3 +76,21 @@ ul {
 .hero-img img {
   max-width: 100%;
 }
+
+/* Main styles */
+.main {
+  text-align: center;
+  padding: 48px;
+}
+.main-intro {
+  margin-bottom: 48px;
+}
+.main-title {
+  margin-bottom: 8px;
+}
+.main-subtitle {
+  color: #6c7580;
+}
+.main-subtitle p {
+  margin: 0;
+}
